@@ -1,8 +1,8 @@
 var katzDeliLine = [];
 
 function takeANumber(katzDeliLine) {
-    var i=1 
-    katzDeliLine.push(i++)// i=i+1 
+    var i=1
+    katzDeliLine.push(i++)// i=i+1
     return `Welcome, You are' ${i}.`
 }
 
